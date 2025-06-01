@@ -2,7 +2,7 @@
 
 **`Quality Assurance / Tester`**
 
-Meu nome é João, tenho 24 anos e atualmente resido em Manaus-AM.
+Meu nome é João, tenho 25 anos e atualmente resido em Manaus-AM.
 
 Utilizo tecnologias como Python, JavaScript, Selenium, Python, Robot Framework, Cypress  e Postman para testes de APIs, entre outras ferramentas, garantindo a eficiência dos processos de qualidade. Também tenho conhecimento em análise de requisitos e documentação de projetos, assegurando um acompanhamento detalhado e eficaz.
 Minha prioridade é sempre buscar melhorias contínuas no processo de desenvolvimento de software, garantindo a qualidade do produto antes de ser entregue ao cliente final.
